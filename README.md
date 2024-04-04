@@ -1,16 +1,6 @@
-# UC+REQ & C4 Model using Mermaid
+# BigData ML Course
 
-FYI: https://mermaid.js.org/syntax/c4.html
+Тайчинов Евгений Ильдарович
 
-## Generate
-
-Generate diagrams:
-
-```
-npm install
-node src2docs.js
-```
-
-# Limitations
-
-FYI: https://github.com/mermaid-js/mermaid/issues/4628
+ДЗ №1 в папке hw_1
+ДЗ №2 в папке hw_2
